@@ -14,7 +14,6 @@ function Footer() {
           <div className=" flex flex-col items-center justify-center">
             <div className="flex space-x-4">
               <FaFacebook size={24} />
-              <FaTwitter size={24} />
               <FaInstagram size={24} />
               <FaLinkedinIn size={24} />
             </div>
@@ -22,7 +21,7 @@ function Footer() {
               <p className="text-sm">
                 &copy; 2024 Your Company. All rights reserved.
               </p>
-              <p className="text-sm">Supportive Partner ❤️ Ankush</p>
+              
             </div>
           </div>
         </div>

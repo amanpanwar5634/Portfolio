@@ -20,7 +20,7 @@ function Navbar() {
     },
     {
       id: 4,
-      text: "Experiance",
+      text: "Experience",
     },
     {
       id: 5,
@@ -33,8 +33,7 @@ function Navbar() {
         <div className="flex justify-between items-center h-16">
           <div className=" flex space-x-2">
             <img src={pic} className="h-12 w-12 rounded-full" alt="" />
-            <h1 className="font-semibold text-xl cursor-pointer">
-              Akhi<span className="text-green-500 text-2xl">l</span>
+            <h1 className="font-semibold text-xl cursor-pointer"> Aman Panwar 
               <p className="text-sm">Web Developer</p>
             </h1>
           </div>
