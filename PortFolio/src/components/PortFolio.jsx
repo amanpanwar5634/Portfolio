@@ -46,6 +46,13 @@ function PortFolio() {
         className="bg-green-600 text-white px-4 py-2 rounded-lg shadow hover:bg-green-700 transition ml-3">
         Visit Admin Panel
       </a>
+      <a 
+        href="https://github.com/amanpanwar5634/ZestyZilla" 
+        target="_blank" 
+        rel="noopener noreferrer" 
+        className="bg-green-600 text-white px-4 py-2 rounded-lg shadow hover:bg-green-700 transition ml-3">
+        Visit Project Code
+      </a>
       
     </div>
 
@@ -77,6 +84,13 @@ function PortFolio() {
         rel="noopener noreferrer" 
         className="bg-blue-600 text-white px-4 py-2 rounded-lg shadow hover:bg-blue-700 transition">
         Visit Live Project
+      </a>
+      <a 
+        href="https://github.com/amanpanwar5634/echopost" 
+        target="_blank" 
+        rel="noopener noreferrer" 
+        className="bg-blue-600 text-white px-4 py-2 rounded-lg shadow hover:bg-blue-700 transition ml-3">
+        Visit Code Project
       </a>
     </div>
 
